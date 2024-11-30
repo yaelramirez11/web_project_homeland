@@ -1,0 +1,55 @@
+.page {
+  margin: 0 auto;
+  font-family: "Inter", Arial, sans-serif;
+  background-color: #2a2c2f;
+  max-width: 1280px;
+}
+
+.page__logo {
+  max-width: 254.84px;
+  max-height: 68.94px;
+  padding-top: 34px;
+  padding-left: 513px;
+  margin: 0px;
+}
+@media screen and (max-width: 768px) {
+  .page {
+    max-width: 768px;
+    margin: 0 auto;
+  }
+
+  .page__logo {
+    max-width: 220px;
+    max-height: 60px;
+    padding-top: 30px;
+    padding-left: 257px;
+  }
+}
+
+@media screen and (max-width: 544px) {
+  .page {
+    max-width: 100%;
+    margin: 0 auto;
+  }
+
+  .page__logo {
+    max-width: 200px;
+    max-height: 55px;
+    padding-top: 20px;
+    padding-left: 160px;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .page {
+    max-width: 100%;
+    margin: 0 auto;
+  }
+
+  .page__logo {
+    max-width: 188px;
+    max-height: 52px;
+    padding-top: 15px;
+    padding-left: 66px;
+  }
+}
