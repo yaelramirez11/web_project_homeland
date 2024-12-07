@@ -64,7 +64,7 @@
 }
 
 .places__button:hover {
-  background: linear-gradient(90deg, #0278fe40 0%, #003a7b40 100%);
+  background: linear-gradient(90deg, #0278fe40 0%, #003a7b40 99.98%);
 }
 
 .places__button-link {
