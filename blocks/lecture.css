@@ -3,7 +3,8 @@
   flex-direction: column;
   color: white;
   max-width: 830px;
-  margin-left: 148px;
+  margin-left: 11%;
+  margin-right: 24%;
 }
 
 .lecture__title {
